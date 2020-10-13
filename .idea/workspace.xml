@@ -2,306 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bea20c8-9a52-474a-a211-886fe558d4a5" name="Default Changelist" comment="https://github.com/yunchaoyun/active4j-flow/blob/master/pom.xml，还未成功启动">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/activiti/category/category.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/activiti/category/categorylist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/activiti/center/center.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/activiti/define/definelist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/activiti/define/flowimage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/activiti/deploy/deploylist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/activiti/form/category/category.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/activiti/form/category/categorylist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/activiti/form/form/builder.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/activiti/form/form/define.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/activiti/form/form/form.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/activiti/form/form/formlist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/activiti/mng/flowimage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/activiti/mng/mng.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/activiti/mng/mnglist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/activiti/process/model/model.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/activiti/process/model/modellist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/common/403.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/common/404.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/common/500.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/contractapproval/apply.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/contractapproval/applyshow.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/contractapproval/backshow.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/contractapproval/form.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/costapproval/apply.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/costapproval/applyshow.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/costapproval/form.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/hrholiday/apply.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/hrholiday/applyshow.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/hrholiday/form.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/include/apphis.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/include/approve.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/include/info.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/include/inputapp.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/my/delete.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/my/flowimage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/my/myapplylist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/my/mydraftlist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/my/myfinishlist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/signetapproval/apply.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/signetapproval/applyshow.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/signetapproval/form.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/task/finishtasklist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/task/groupwaittasklist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/flow/task/waittasklist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/main/console.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/main/main.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/common/selectIcon.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/common/selectdepart.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/common/selectjob.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/common/selectuser.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/common/selectusers.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/common/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/common/warning.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/depart/depart.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/depart/departList.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/dic/dic.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/dic/dicList.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/dic/dicval.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/function/function.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/function/functionList.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/function/operation.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/log/loglist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/role/role.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/role/roleList.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/user/basic/info.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/user/basic/pwd.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/user/changepwd.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/user/user.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/user/userlist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/tld/bootstrap.tld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/context/mytags.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/application-dev.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/Active4jhrApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/controller/FlowBaseController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/controller/FlowContractApprovalController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/controller/FlowCostApprovalController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/controller/FlowHrHolidayApprovalController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/controller/FlowSignetApprovalController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/controller/FlowTaskController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/dao/FlowContractApprovalDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/dao/FlowCostApprovalDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/dao/FlowHrHolidayApprovalDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/dao/FlowSignetApprovalDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/entity/FlowContractApprovalEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/entity/FlowCostApprovalEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/entity/FlowHrHolidayApprovalEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/entity/FlowSignetApprovalEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/service/FlowContractApprovalService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/service/FlowCostApprovalService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/service/FlowHrHolidayApprovalService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/service/FlowSignetApprovalService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/service/impl/FlowContractApprovalServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/service/impl/FlowCostApprovalServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/service/impl/FlowHrHolidayApprovalServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/biz/service/impl/FlowSignetApprovalServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/controller/WorkflowCategoryController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/controller/WorkflowCenterController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/controller/WorkflowDeployController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/controller/WorkflowFormCategoryController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/controller/WorkflowFormController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/controller/WorkflowMngController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/dao/WorkflowAuthDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/dao/WorkflowBaseDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/dao/WorkflowCategoryDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/dao/WorkflowDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/dao/WorkflowFormCategoryDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/dao/WorkflowFormDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/dao/WorkflowMngDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/domain/FormJsonData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/entity/WorkflowAuthEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/entity/WorkflowBaseEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/entity/WorkflowCategoryEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/entity/WorkflowFormCategoryEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/entity/WorkflowFormEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/entity/WorkflowMngEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/listener/TaskAssigneeApplyUserListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/listener/TaskAssigneeDepartManagerListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/listener/TaskAssigneeRoleNameListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/service/WorkflowAuthService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/service/WorkflowBaseService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/service/WorkflowCategoryService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/service/WorkflowFormCategoryService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/service/WorkflowFormService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/service/WorkflowMngService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/service/WorkflowService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/service/impl/WorkflowAuthServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/service/impl/WorkflowBaseServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/service/impl/WorkflowCategoryServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/service/impl/WorkflowFormCategoryServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/service/impl/WorkflowFormServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/service/impl/WorkflowMngServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/service/impl/WorkflowServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/util/ActivitiUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/util/BpmsActivityTypeEnum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/util/UtilMisc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/util/WorkflowConstant.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/util/WorkflowTaskUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/view/ModelEditorJsonRestResource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/activiti/view/StencilsetRestResource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/base/controller/BaseController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/common/constant/GlobalConstant.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/common/constant/SysConstant.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/common/controller/CommonController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/common/entity/BaseEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/annotation/Log.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/annotation/QueryField.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/aop/LogAop$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/aop/LogAop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/beanutil/ApplicationContextUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/beanutil/ContextHolderUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/beanutil/MyBeanUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/config/DbConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/config/properties/DataSourceProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/config/properties/VerCodeProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/exception/GlobalExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/init/CommonStartConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/metadata/CustomMetaDataObjectHandle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/model/AjaxJson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/model/LogType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/query/QueryCondition.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/query/QueryUtils$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/query/QueryUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/redis/FastJson2JsonRedisSerializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/redis/RedisApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/redis/RedisConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/redis/RedisPropertiesLoader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/shiro/MyShiroRealm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/shiro/ShiroConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/shiro/ShiroUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/threadpool/ThreadPoolConfig$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/threadpool/ThreadPoolConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/threadpool/ThreadPoolManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/threadpool/ThreadPoolProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/util/DateUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/util/FileUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/util/HttpUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/util/IpUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/util/ListUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/util/MyStringUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/util/PropertiesUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/util/ReflectHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/util/ReflectUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/util/RequestUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/util/ResponseUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/util/SpringUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/util/StringUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/util/UUIDUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/util/oConvertUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/DateConvertEditor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/IntegerConvertEditor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/config/WebMVCConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/AuthFilterTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/Autocomplete.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/AutocompleteTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/BaseTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/BaseTagSummbernote.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/ChooseIconTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/ChooseTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/CkeditorTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/CkfinderTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/ColorChangeTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/ComboBoxTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/ComboTreeTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/DataGridColumnTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/DataGridConfOptTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/DataGridDefOptTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/DataGridDelOptTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/DataGridFunOptTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/DataGridOpenOptTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/DataGridPageTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/DataGridTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/DataGridToolBarTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/DictSelectTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/FormValidationTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/MenuTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/PagerUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/TabTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/TabsTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/TagUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/TipSelectTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/UploadTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/model/ComboBox.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/model/DataGrid.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/model/DataGridColumn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/model/DataGridToolBarUrl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/model/DataGridUrl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/model/OptTypeDirection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/model/Tab.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/model/TreeDataGrid.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/model/tree/JggridTreeModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/model/tree/TSDepartTreeData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/model/tree/TSDicTreeData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/model/tree/TSFunctionTreeData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/core/web/tag/model/tree/TSRoleTreeData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/func/upload/controller/FileUploadController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/func/upload/dao/UploadAttachmentDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/func/upload/entity/UploadAttachmentEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/func/upload/service/UploadAttachmentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/func/upload/service/impl/UploadAttachmentServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/controller/RandCodeImageEnum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/controller/SysDeptController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/controller/SysDicController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/controller/SysFunctionController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/controller/SysLogController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/controller/SysRoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/controller/SysUserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/controller/VerCodeController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/dao/SysDeptDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/dao/SysDicDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/dao/SysDicValueDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/dao/SysFunctionDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/dao/SysLogDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/dao/SysOperationDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/dao/SysRoleDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/dao/SysRoleFunctionDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/dao/SysUserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/dao/SysUserRoleDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/entity/SysDeptEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/entity/SysDicEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/entity/SysDicValueEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/entity/SysFunctionEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/entity/SysLogEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/entity/SysOperationEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/entity/SysRoleEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/entity/SysRoleFunctionEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/entity/SysUserEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/entity/SysUserRoleEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/model/ActiveUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/model/KeyValueModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/model/MenuModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/model/SysUserModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/SysDeptService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/SysDicService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/SysDicValueService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/SysFunctionService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/SysLogService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/SysOperationService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/SysRoleFunctionService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/SysRoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/SysUserRoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/SysUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/SystemService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/impl/SysDeptServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/impl/SysDicServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/impl/SysDicValueServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/impl/SysFunctionServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/impl/SysLogServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/impl/SysOperationServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/impl/SysRoleFunctionServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/impl/SysRoleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/impl/SysUserRoleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/impl/SysUserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/service/impl/SystemServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/active4j/hr/system/util/SystemUtils.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/logback-spring.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/mybatis/activiti/dao/xml/WorkflowDao.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/mybatis/activiti/dao/xml/WorkflowMngDao.xml" afterDir="false" />
@@ -1216,7 +920,6 @@
       <change afterPath="$PROJECT_DIR$/target/classes/static/webuploader/webuploader.min.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/static/workcal/workcal.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/stencilset.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -1399,7 +1102,7 @@
       <workItem from="1601022524577" duration="133000" />
       <workItem from="1602463270706" duration="2557000" />
       <workItem from="1602465852814" duration="8092000" />
-      <workItem from="1602549218131" duration="1442000" />
+      <workItem from="1602549218131" duration="1699000" />
     </task>
     <task id="LOCAL-00001" summary="https://github.com/yunchaoyun/active4j-flow/blob/master/pom.xml，还未成功启动">
       <created>1602488429888</created>
@@ -1471,11 +1174,25 @@
       <option name="project" value="LOCAL" />
       <updated>1602550927134</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="https://github.com/yunchaoyun/active4j-flow/blob/master/pom.xml，还未成功启动">
+      <created>1602551033238</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1602551033238</updated>
+    </task>
+    <task id="LOCAL-00012" summary="https://github.com/yunchaoyun/active4j-flow/blob/master/pom.xml，还未成功启动">
+      <created>1602551087032</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602551087032</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16478000" />
+    <option name="totallyTimeSpent" value="16735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
